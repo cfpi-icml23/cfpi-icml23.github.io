@@ -1,6 +1,6 @@
-# CFPO
+# CFPI
 
-This is the repository that contains source code for the [CFPO website](https://cfpo-icml23.github.io).
+This is the repository that contains source code for the [CFPO website](https://cfpi-icml23.github.io).
 
 If you find Nerfies useful for your work please cite:
 ```
