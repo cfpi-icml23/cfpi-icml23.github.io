@@ -2,7 +2,7 @@
 
 This is the repository that contains source code for the [CFPO website](https://cfpi-icml23.github.io).
 
-If you find Nerfies useful for your work please cite:
+If you find CFPI useful for your work please cite:
 ```
 @misc{li2022offline,
     title={Offline Reinforcement Learning with Closed-Form Policy Improvement Operators},
